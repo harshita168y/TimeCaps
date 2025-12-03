@@ -1,0 +1,9 @@
+{
+  "relaxing.mp3": ["calm", "soft", "evening", "chill", "home"],
+  "upbeat.mp3": ["energetic", "happy", "fun", "daytime", "friends"],
+  "cinematic.mp3": ["dramatic", "epic", "story", "journey", "emotional"],
+  "emotional.mp3": ["sad", "slow", "reflective", "alone"],
+  "travel.mp3": ["outdoors", "travel", "journey", "adventure", "commute"],
+  "cafe.mp3": ["coffee", "warm", "cozy", "relaxed", "indoor"],
+  "workout.mp3": ["gym", "workout", "intense", "pump", "focus"]
+}
